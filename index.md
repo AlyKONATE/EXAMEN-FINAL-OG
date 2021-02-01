@@ -1,7 +1,7 @@
 ## EXAMEN 
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
 
-## Cette carte représente la liste des principaux établissement d'enseignements supérieur. Comme nous pouvons le remarquer les Livres sont représenter selon la localisation de l'établissement d'enseignement. On a choisi cette visualisation parce qu'elle permet d'avoir une vision large par rapport à la représentation que nous voulions avoir
+## Cette carte représente la liste des principaux établissement d'enseignements supérieur. Comme nous pouvons le remarquer les Livres sont représenter selon la localisation de  l'établissement d'enseignement. On a choisi cette visualisation parce qu'elle permet d'avoir une vision large par rapport à la représentation que nous voulions avoir
 
 # Header 1
 ## Header 2
