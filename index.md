@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AlyKONATE/TEXT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
 
 ### Markdown
 
